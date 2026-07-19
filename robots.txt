@@ -7,10 +7,4 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Yeti
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-Sitemap: https://mens-esthe.space/sitemap.xml
+Sitemap: https://mens-esthe-shirt-review.pbn-builder.xyz/sitemap.xml
